@@ -26,12 +26,21 @@ Veranstaltungs-Datum: 2015-06-17 - 2015-06-18
 Veranstaltungs-Ort: Hochschule Hannover, Gebäude "Planet MID", Expo Plaza 4, D-30539 Hannover, Deutschland
 
 ## Entwicklungsumgebung
-- LAMP mit PHP5, MySQL ( für Windows z.B. XAMPP 1.7.7, http://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.7.7/ )
+### Software-Werkzeuge
+- LAMP mit PHP5, Apache, MySQL ( für Windows z.B. XAMPP 1.7.7, http://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.7.7/ )
 - Eclipse for PHP Developers, http://www.eclipse.org/downloads/packages/eclipse-php-developers/lunasr2
 
-Der experimentelle Code nutzt den SQL-Datenbanknutzer "root", kein Passwort gesetzt ( null ).
+### Setup der Datenbank
+Der experimentelle Code nutzt den SQL-Datenbanknutzer "root", kein Passwort gesetzt ( null ). Die Daten werden hier gesetzt:
 - newsjunkies\php\newsjunkies_quiz\frage.php, Funktion "openConnection()"
 - newsjunkies\php\newsjunkies_admin\classes\MyPDO.php, Klasse "MyPDO"
+
+### Setup der Anwendung
+- Kopieren Sie das Projekt-Verzeichnis "newsjunkies" in das Verzeichnis "htdocs" des Apache-Servers
+
+### Setup der Anwendungen
+- Rufen Sie die Quiz-Administration mit Ihrem Internet-Browser auf: http://localhost:8502/newsjunkies/php/newsjunkies_admin/
+- Rufen Sie das Quiz mit Ihrem Internet-Browser : http://localhost:8502/newsjunkies/php/newsjunkies_quiz/
 
 ## Ergebnis
 - Die Ergebnisse des Hackathons wurden auf der Veranstaltung "Corporate Media Forum 2015", http://www.nordmedia.de/pages/veranstaltungen/corporate_media_forum/, im Konferenzsaal des Hochschul-Gebäudes "Planet MID" am 2015-06-18 vor den Veranstaltungsteilnehmern präsentiert.
