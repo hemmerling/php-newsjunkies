@@ -9,7 +9,7 @@ NEWSjunkies - Das Quiz vom "Hackathon beim Corporate Media Forum 2015 - kleine A
 - Vilius Kukanauskas, Entwickler: Quiz Administration für Internet-Browser zur zielgruppengerechten Eingabe der Quiz-Fragen und -Antworten, mit PHP und MySQL; Entwicklung des SQL-Datenbankschemas
 - Frank Schliffer, Entwickler: Quiz Anwendung als Windows-Desktop Programm, mit C# ( in diesem Projekt *nicht* enthalten ); Entwicklung des SQL-Datenbankschemas
 
-Dank an Janina Schunk, Graphikerin und Hackathon-Teilnehmerin in einem anderen Team, die als Gast uns das "NWSjunkies" Logo entworfen hat :-).
+Besonderen Dank an Janina Schunk, Graphikerin und Hackathon-Teilnehmerin in einem anderen Team, die als Gast uns das "NWSjunkies" Logo entworfen hat :-).
 
 ## Projekt Pitch:
 
@@ -38,7 +38,8 @@ Der experimentelle Code nutzt den SQL-Datenbanknutzer "root", kein Passwort gese
 ### Setup der Anwendung
 - Kopieren Sie das Projekt-Verzeichnis "newsjunkies" in das Verzeichnis "htdocs" des Apache-Servers
 
-### Setup der Anwendungen, am Beispiel eines auf Port 8502 laufenden Apache-Servers
+### Aufruf der Anwendungen
+Mal angenommen, dass der Apache-Server auf dem eigenen Rechner ( http://localhost ) auf Port 8502 läuft:
 - Rufen Sie die Quiz-Administration mit Ihrem Internet-Browser auf: http://localhost:8502/newsjunkies/php/newsjunkies_admin/
 - Rufen Sie das Quiz mit Ihrem Internet-Browser auf: http://localhost:8502/newsjunkies/php/newsjunkies_quiz/
 
