@@ -11,9 +11,9 @@ NEWSjunkies - Das Quiz vom "Hackathon beim Corporate Media Forum 2015 - kleine A
 
 Dank an Janina Schunk, Graphikerin und Hackathon-Teilnehmerin in einem anderen Team, die als Gast uns das "NWSjunkies" Logo entworfen hat :-).
 
-## Projekt Pitch: Newsjunkies
+## Projekt Pitch:
 
-Newsjunkie macht sich zwei Grundtriebe des Menschen zu Nutze, um die Begeisterung für Nachrichten zu steigern: Wissensdurst und Spaß am Wettkampf. Grafisch ähnelt die App sehr ihrem Vorbild, dem Quiz-Duell: In der oberen Hälfte des Bildschirms wird eine Frage eingeblendet, in der unteren Hälfte vier anklickbare Antwortmöglichkeiten vorgegeben. Inhaltlich gibt es aber einen großen Unterschied: Während beim Quizduell und anderen Rate-Apps die Fragen eher allgemein und zeitlos gewählt sind, lässt Newsjunkie das Nachrichtengeschehen der zurückliegenden Woche Revue passieren.
+NEWSjunkies macht sich zwei Grundtriebe des Menschen zu Nutze, um die Begeisterung für Nachrichten zu steigern: Wissensdurst und Spaß am Wettkampf. Grafisch ähnelt die App sehr ihrem Vorbild, dem Quiz-Duell: In der oberen Hälfte des Bildschirms wird eine Frage eingeblendet, in der unteren Hälfte vier anklickbare Antwortmöglichkeiten vorgegeben. Inhaltlich gibt es aber einen großen Unterschied: Während beim Quizduell und anderen Rate-Apps die Fragen eher allgemein und zeitlos gewählt sind, lässt Newsjunkie das Nachrichtengeschehen der zurückliegenden Woche Revue passieren.
 
 Ziel der App ist es, zwei häufig geäußerten Vorbehalten gegenüber Nachrichten zu begegnen – nämlich, dass sie langweilig und unverständlich sein sollen. Mit Hilfe der App kann der Spieler sich in kürzester Zeit auf unterhaltsame Weise einen Überblick über das Nachrichtengeschehen der vergangenen Woche verschaffen und dabei zugleich überprüfen, ob er „genug“ Nachrichten konsumiert hat und dabei auch aufmerksam war – die perfekte Überbrückung für Wartezeiten an Bushaltestellen oder U-Bahnstationen.
 
@@ -28,6 +28,10 @@ Veranstaltungs-Ort: Hochschule Hannover, Gebäude "Planet MID", Expo Plaza 4, D-
 ## Entwicklungsumgebung
 - LAMP mit PHP5, MySQL ( für Windows z.B. XAMPP 1.7.7, http://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.7.7/ )
 - Eclipse for PHP Developers, http://www.eclipse.org/downloads/packages/eclipse-php-developers/lunasr2
+
+Der experimentelle Code nutzt den SQL-Datenbanknutzer "root", kein Passwort gesetzt ( null ).
+- newsjunkies\php\newsjunkies_quiz\frage.php, Funktion "openConnection()"
+- newsjunkies\php\newsjunkies_admin\classes\MyPDO.php, Klasse "MyPDO"
 
 ## Ergebnis
 - Die Ergebnisse des Hackathons wurden auf der Veranstaltung "Corporate Media Forum 2015", http://www.nordmedia.de/pages/veranstaltungen/corporate_media_forum/, im Konferenzsaal des Hochschul-Gebäudes "Planet MID" am 2015-06-18 vor den Veranstaltungsteilnehmern präsentiert.
