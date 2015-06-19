@@ -25,6 +25,10 @@ Veranstaltung: "Hackathon beim Corporate Media Forum - kleine Anwendungen, groß
 Veranstaltungs-Datum: 2015-06-17 - 2015-06-18
 Veranstaltungs-Ort: Hochschule Hannover, Gebäude "Planet MID", Expo Plaza 4, D-30539 Hannover, Deutschland
 
+## Entwicklungsumgebung
+- LAMP mit PHP5, MySQL ( für Windows z.B. XAMPP 1.7.7, http://sourceforge.net/projects/xampp/files/XAMPP%20Windows/1.7.7/ )
+- Eclipse for PHP Developers, http://www.eclipse.org/downloads/packages/eclipse-php-developers/lunasr2
+
 ## Ergebnis
 - Die Ergebnisse des Hackathons wurden auf der Veranstaltung "Corporate Media Forum 2015", http://www.nordmedia.de/pages/veranstaltungen/corporate_media_forum/, im Konferenzsaal des Hochschul-Gebäudes "Planet MID" am 2015-06-18 vor den Veranstaltungsteilnehmern präsentiert.
 - Tublr "#ardzdfhack. Livetumblr vom Hackathon der ARD-ZDF-Medienakademie 2015", http://ardzdfhack.tumblr.com/
