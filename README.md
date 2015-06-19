@@ -20,10 +20,10 @@ Ziel der App ist es, zwei häufig geäußerten Vorbehalten gegenüber Nachrichte
 Im besten Fall wird der User der App dazu animiert, sich noch intensiver als bisher mit den bereits vorhandenen Inhalten eines Senders zu befassen – denkbar ist zum Beispiel, dass jede falsche Antwort dazu verleitet, bei der nächsten Tagesschau genauer hinzuschauen. Am Ende sollte der Spieler bestenfalls beides sein: unterhalten und besser informiert.
 
 ## Das Hackathon
-Veranstalter: ARD/ZDF Medienakademie 
-Veranstaltung: "Hackathon beim Corporate Media Forum - kleine Anwendungen, große Ideen!" 
-Veranstaltungs-Datum: 2015-06-17 - 2015-06-18
-Veranstaltungs-Ort: Hochschule Hannover, Gebäude "Planet MID", Expo Plaza 4, D-30539 Hannover, Deutschland
+- Veranstalter: ARD/ZDF Medienakademie 
+- Veranstaltung: "Hackathon beim Corporate Media Forum - kleine Anwendungen, große Ideen!" 
+- Veranstaltungs-Datum: 2015-06-17 - 2015-06-18
+- Veranstaltungs-Ort: Hochschule Hannover, Gebäude "Planet MID", Expo Plaza 4, D-30539 Hannover, Deutschland
 
 ## Entwicklungsumgebung
 ### Software-Werkzeuge
@@ -38,9 +38,9 @@ Der experimentelle Code nutzt den SQL-Datenbanknutzer "root", kein Passwort gese
 ### Setup der Anwendung
 - Kopieren Sie das Projekt-Verzeichnis "newsjunkies" in das Verzeichnis "htdocs" des Apache-Servers
 
-### Setup der Anwendungen
+### Setup der Anwendungen, am Beispiel eines auf Port 8502 laufenden Apache-Servers
 - Rufen Sie die Quiz-Administration mit Ihrem Internet-Browser auf: http://localhost:8502/newsjunkies/php/newsjunkies_admin/
-- Rufen Sie das Quiz mit Ihrem Internet-Browser : http://localhost:8502/newsjunkies/php/newsjunkies_quiz/
+- Rufen Sie das Quiz mit Ihrem Internet-Browser auf: http://localhost:8502/newsjunkies/php/newsjunkies_quiz/
 
 ## Ergebnis
 - Die Ergebnisse des Hackathons wurden auf der Veranstaltung "Corporate Media Forum 2015", http://www.nordmedia.de/pages/veranstaltungen/corporate_media_forum/, im Konferenzsaal des Hochschul-Gebäudes "Planet MID" am 2015-06-18 vor den Veranstaltungsteilnehmern präsentiert.
