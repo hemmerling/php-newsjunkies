@@ -1,7 +1,7 @@
 # php-newsjunkies
 NEWSjunkies - Das Quiz vom "Hackathon beim Corporate Media Forum 2015 - kleine Anwendungen, grosse Ideen!" 
 
-![NEWSjunkies Logo](/doc/images/newsjunkies_logo.jpg "NEWSjunkies Logo") 
+![NEWSjunkies Logo](/doc/images/newsjunkies_logo.png "NEWSjunkies Logo") 
 
 ## Team
 - Torben Börgers, Journalist, http://www.xing.com/profile/Torben_Boergers2: Projekt-Pitch. Quiz-Fragen und -Antworten. Ideen-Geber / Domainexperte / Product Owner. Anwendungstester
