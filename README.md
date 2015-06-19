@@ -11,7 +11,7 @@ NEWSjunkies - Das Quiz vom "Hackathon beim Corporate Media Forum 2015 - kleine A
 
 Besonderen Dank an Janina Schunk, Graphikerin und Hackathon-Teilnehmerin in einem anderen Team, die als Gast uns das "NWSjunkies" Logo entworfen hat :-).
 
-## Projekt Pitch:
+## Projekt Pitch
 
 NEWSjunkies macht sich zwei Grundtriebe des Menschen zu Nutze, um die Begeisterung für Nachrichten zu steigern: Wissensdurst und Spaß am Wettkampf. Grafisch ähnelt die App sehr ihrem Vorbild, dem Quiz-Duell: In der oberen Hälfte des Bildschirms wird eine Frage eingeblendet, in der unteren Hälfte vier anklickbare Antwortmöglichkeiten vorgegeben. Inhaltlich gibt es aber einen großen Unterschied: Während beim Quizduell und anderen Rate-Apps die Fragen eher allgemein und zeitlos gewählt sind, lässt Newsjunkie das Nachrichtengeschehen der zurückliegenden Woche Revue passieren.
 
