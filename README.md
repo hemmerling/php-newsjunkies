@@ -4,10 +4,10 @@ NEWSjunkies - Das Quiz vom "Hackathon beim Corporate Media Forum 2015 - kleine A
 ![NEWSjunkies Logo](/doc/images/newsjunkies_logo.jpg "NEWSjunkies Logo") 
 
 ## Team
-- Torben Börgers, Journalist: Projekt-Pitch, Quiz-Fragen und -Antworten; , Ideen-Geber / Domainexperte / Product Owner, Anwendungstester
-- Rolf Hemmerling, Entwickler: Quiz Anwendung für Internet-Browser, mit PHP und MySQL
-- Vilius Kukanauskas, Entwickler: Quiz Administration für Internet-Browser zur zielgruppengerechten Eingabe der Quiz-Fragen und -Antworten, mit PHP und MySQL; Entwicklung des SQL-Datenbankschemas
-- Frank Schliffer, Entwickler: Quiz Anwendung als Windows-Desktop Programm, mit C# ( in diesem Projekt *nicht* enthalten ); Entwicklung des SQL-Datenbankschemas
+- Torben Börgers, Journalist, http://www.xing.com/profile/Torben_Boergers2: Projekt-Pitch, Quiz-Fragen und -Antworten; , Ideen-Geber / Domainexperte / Product Owner, Anwendungstester
+- Rolf Hemmerling, http://www.hemmerling.com, https://www.xing.com/profile/Rolf_Hemmerling, Entwickler: Quiz Anwendung für Internet-Browser, mit PHP und MySQL
+- Vilius Kukanauskas, http://vilkas.de/, http://www.xing.com/profile/Vilius_Kukanauskas, https://www.facebook.com/vilius.kukanauskas, Entwickler: Quiz Administration für Internet-Browser zur zielgruppengerechten Eingabe der Quiz-Fragen und -Antworten, mit PHP und MySQL; Entwicklung des SQL-Datenbankschemas
+- Frank Schliffer, http://www.facebook.com/frank.schliffer, Entwickler: Quiz Anwendung als Windows-Desktop Programm, mit C# ( in diesem Projekt *nicht* enthalten ); Entwicklung des SQL-Datenbankschemas
 
 Besonderen Dank an Janina Schunk, Graphikerin und Hackathon-Teilnehmerin in einem anderen Team, die als Gast uns das "NWSjunkies" Logo entworfen hat :-).
 
