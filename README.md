@@ -32,8 +32,10 @@ Im besten Fall wird der User der App dazu animiert, sich noch intensiver als bis
 
 ### Setup der Datenbank
 Der experimentelle Code nutzt den SQL-Datenbanknutzer "root", kein Passwort gesetzt ( null ). Die Daten werden hier gesetzt:
-- newsjunkies\php\newsjunkies_quiz\frage.php, Funktion "openConnection()"
-- newsjunkies\php\newsjunkies_admin\classes\MyPDO.php, Klasse "MyPDO"
+- newsjunkies/php\newsjunkies_quiz/frage.php, Funktion "openConnection()"
+- newsjunkies/php/newsjunkies_admin/classes\MyPDO.php, Klasse "MyPDO"
+
+In den beiden PHP-Dateien "index.php" sowie "frage.php" und "antwort.php" wird "jquery.js" vom im Projekt festgelegten Pfad geladen
 
 ### Setup der Anwendung
 - Kopieren Sie das Projekt-Verzeichnis "newsjunkies" in das Verzeichnis "htdocs" des Apache-Servers
